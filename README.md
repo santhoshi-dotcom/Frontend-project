@@ -88,11 +88,11 @@ Copy code
 
 ## 👩‍💻 About the Project
 
-Project Name: RePlate – Zero Waste Food Donation System.
-Type: Web Application.
-Purpose: Reduce food waste and support people in need.
-Publisher:Santhoshi G
+- Project Name: RePlate – Zero Waste Food Donation System.
+- Type: Web Application.
+- Purpose: Reduce food waste and support people in need.
+- Publisher:Santhoshi G
 
-# # ❤️ Message
+## ❤️ Message
 
 🎯“Food is meant to be shared, not wasted.”
