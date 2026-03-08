@@ -61,7 +61,7 @@ RePlate Project
 
   # 1.  The user opens the website and sees an awareness message about food
     waste.
-    ![image_alt]()
+    ![image_alt](https://github.com/santhoshi-dotcom/Frontend-project/blob/d17ac260af9a8064afdfc3cda33e17cfb68de2e0/intro.png)
   # 2.  The user clicks the **Donate Food** button.
   # 3.  A form appears asking for food details such as:
     -   Donator name
