@@ -33,7 +33,7 @@
 - Download or Clone the Repository
 Copy code
 
- [ git clone https://github.com/santhoshi-dotcom/Frontend-project.git ]
+    [ git clone https://github.com/santhoshi-dotcom/Frontend-project.git ]
  - Open the Project Folder
   Frontend-project .
 -  Run the Project.
