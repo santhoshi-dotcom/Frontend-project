@@ -51,12 +51,12 @@ Copy code
  5. about.html
  6. contact.html
  7. profile.html
--Images
+- Images
    1. intro.jpg
    2. home.jpg
    3. donateform.jpg
    4. alert.jpg
-   5. profile.jpg│
+   5. profile.jpg
 - README.md
 
 # 🖼 Application Flow
